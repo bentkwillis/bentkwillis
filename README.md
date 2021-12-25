@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Benjamin.
-- 👀 I’m interested in AI, cloud, IoT and code.
+- 👀 I’m interested in AI, cloud, IoT, and code.
 - 🌱 I’m currently learning Swift and AI.
 - 💞️ I’m looking to collaborate on ... anything!
-- 📫 How to reach me ... email me at hey@benwillis.xyz.
+- 📫 You can reach me via DM or email me at hey@benwillis.xyz.
 
 <!---
 bentkwillis/bentkwillis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
